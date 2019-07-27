@@ -1,16 +1,28 @@
 {
   "menus": [
-    {
-      "id": 1,
-      "title": "Couscous 1"
+    {        
+      "id": 1
+      "name": "Couscous"
+      "description": "Couscous marocain"
+      "price": "4 000"
+      "available": "true"
+      "image": ""
     },
     {
-      "id": 2,
-      "title": "Sandwich poulet"
+      "id": 1
+      "name": "Sandwich thon"
+      "description": "un delicieu sandwich au thon"
+      "price": "5 000"
+      "available": "true"
+      "image": ""
     },
     {
-      "id": 3,
-      "title": "Post 3"
+       "id": 3
+      "name": "Poulet roti"
+      "description": "Couscous marocain"
+      "price": "6 000"
+      "available": "true"
+      "image": ""
     }
   ],
   "comments": [
