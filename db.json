@@ -1,4 +1,10 @@
 {
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Amandine"
+    }
+    ],
   "menus": [
     {        
       "id": 1,
