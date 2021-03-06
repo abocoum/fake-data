@@ -1,49 +1,10 @@
 {
-  "vendors": [
-    {
-      "id": 1,
-      "name": "Amandine"
-    }
-    ],
-  "menus": [
-    {        
-      "id": 1,
-      "name": "Couscous",
-      "description": "Couscous marocain",
-      "price": "4 000",
-      "available": true,
-      "image": ""
-    },
-    {
-      "id": 1,
-      "name": "Sandwich thon",
-      "description": "un delicieu sandwich au thon",
-      "price": "5 000",
-      "available": true,
-      "image": ""
-    },
-    {
-       "id": 3,
-      "name": "Poulet roti",
-      "description": "Couscous marocain",
-      "price": "6 000",
-      "available": true,
-      "image": ""
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"users": [
+	{
+	"id": 1 ,
+	"firstName": "Bourama",
+	"lastName": "Coulibaly",
+	"birthYear": 2000
+	}
+	]
 }
