@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="parcelle_1" id="parcelle_1">
+            <SimpleField type="int" name="uoid"/>
+            <SimpleField type="string" name="numeroparc"/>
+            <SimpleField type="string" name="ninacad"/>
+            <SimpleField type="string" name="section"/>
+            <SimpleField type="double" name="surface"/>
+            <SimpleField type="double" name="perimetre"/>
+        </Schema>
+        <Folder>
+            <name>parcelle</name>
+            <Placemark id="parcelle.2292026">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20374</SimpleData>
+                        <SimpleData name="numeroparc">0266</SimpleData>
+                        <SimpleData name="ninacad">00104360266</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">438.182903072616</SimpleData>
+                        <SimpleData name="perimetre">84.0937352901106</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.059384288337762,12.608147093663655 -8.059284705127011,12.60831600702968 -8.059284659096512,12.60831600686764 -8.05928405674036,12.608317089772195 -8.059121121521581,12.608249967947682 -8.059222700287807,12.60806401773797 -8.059380428871743,12.608145136075642 -8.059384288337762,12.608147093663655</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292027">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20383</SimpleData>
+                        <SimpleData name="numeroparc">0285</SimpleData>
+                        <SimpleData name="ninacad">00104360285</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">434.279553517699</SimpleData>
+                        <SimpleData name="perimetre">84.0397052605422</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.058387613636386,12.60699051873869 -8.058456414904992,12.606792924931172 -8.058527982088366,12.606821071233215 -8.05861554519188,12.606855467545518 -8.058542764451834,12.60705878897179 -8.05846381027187,12.607024061286621 -8.058387613636386,12.60699051873869</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292028">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">149</SimpleData>
+                        <SimpleData name="numeroparc">0301</SimpleData>
+                        <SimpleData name="ninacad">00104360301</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">461.816049566492</SimpleData>
+                        <SimpleData name="perimetre">86.7910130563506</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.058099850499742,12.60635462957253 -8.058159341210882,12.606273824033812 -8.058198569957524,12.606220524796344 -8.0582187393282,12.606193153780692 -8.05827906716845,12.606235998787998 -8.05831373040649,12.606260624400434 -8.058398207713825,12.606320643611916 -8.058285767901006,12.606443036104224 -8.058178334544046,12.606391977836516 -8.058099850499742,12.60635462957253</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292029">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">150</SimpleData>
+                        <SimpleData name="numeroparc">0302</SimpleData>
+                        <SimpleData name="ninacad">00104360302</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">343.486104092095</SimpleData>
+                        <SimpleData name="perimetre">78.6486565157242</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.058126002717522,12.606100780712662 -8.05823756721593,12.606167586411098 -8.0582187393282,12.606193153780692 -8.058198569957524,12.606220524796344 -8.058159341210882,12.606273824033812 -8.058099850499742,12.60635462957253 -8.057998161240276,12.60630625883283 -8.058058447417425,12.606209316376985 -8.058093267028314,12.606153334263585 -8.058126002717522,12.606100780712662</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292030">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">120</SimpleData>
+                        <SimpleData name="numeroparc">0306</SimpleData>
+                        <SimpleData name="ninacad">00104360306</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">354.293779844418</SimpleData>
+                        <SimpleData name="perimetre">76.0750707841534</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.058611206890106,12.606354351571591 -8.0586666312095,12.60622737281428 -8.058727877926158,12.60627071826514 -8.05879670016117,12.606319425087493 -8.05875593216108,12.606416119999459 -8.058730951053812,12.606475437139885 -8.058584190691061,12.606416328881556 -8.058611206890106,12.606354351571591</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292031">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">36257</SimpleData>
+                        <SimpleData name="numeroparc">0371</SimpleData>
+                        <SimpleData name="ninacad">00104360371</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">523.455988928559</SimpleData>
+                        <SimpleData name="perimetre">92.7582291557036</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.059456686787254,12.606206419327403 -8.059612269085315,12.606017539458366 -8.059615690317791,12.606013437441552 -8.05975074915368,12.60612571542045 -8.059745431288997,12.606132387701827 -8.059600509510224,12.606313755191298 -8.059456686787254,12.606206419327403</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292032">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20562</SimpleData>
+                        <SimpleData name="numeroparc">0491</SimpleData>
+                        <SimpleData name="ninacad">00104360491</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">306.361489383038</SimpleData>
+                        <SimpleData name="perimetre">70.8407107187788</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.061243416123471,12.607950686063418 -8.061387610350966,12.607842689992522 -8.061464200769494,12.607945267866516 -8.061332816355367,12.608074919064961 -8.06132874022021,12.608069253572276 -8.061243416123471,12.607950686063418</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292033">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20473</SimpleData>
+                        <SimpleData name="numeroparc">0400</SimpleData>
+                        <SimpleData name="ninacad">00104360400</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">323.173692237819</SimpleData>
+                        <SimpleData name="perimetre">72.2960849180947</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.058838748463048,12.604976673765503 -8.05892779067602,12.605034718458551 -8.058936928063943,12.605040674254992 -8.058972909751711,12.605069780148218 -8.058841817602616,12.605195136300766 -8.058730045462095,12.605122226870288 -8.058838748463048,12.604976673765503</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292034">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20479</SimpleData>
+                        <SimpleData name="numeroparc">0406</SimpleData>
+                        <SimpleData name="ninacad">00104360406</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">389.41607703967</SimpleData>
+                        <SimpleData name="perimetre">79.3301512563824</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.059522002774877,12.605424481574708 -8.059604299958472,12.605274540335543 -8.059681211362477,12.605326575672255 -8.059769372777074,12.605386155321918 -8.059739540531528,12.605437860340983 -8.059691873618506,12.605520516255003 -8.059603899788218,12.605472601260724 -8.059599168097401,12.605470007677853 -8.059520520085917,12.60542714371155 -8.059522002774877,12.605424481574708</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292035">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20486</SimpleData>
+                        <SimpleData name="numeroparc">0412</SimpleData>
+                        <SimpleData name="ninacad">00104360412</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">314.598112287931</SimpleData>
+                        <SimpleData name="perimetre">72.2485173595566</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.059274732268273,12.604943487730631 -8.05935736949054,12.604788620087248 -8.059467466256002,12.60486658666355 -8.05941436814064,12.605037472147194 -8.059274732268273,12.604943487730631</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292036">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20494</SimpleData>
+                        <SimpleData name="numeroparc">0420</SimpleData>
+                        <SimpleData name="ninacad">00104360420</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">369.587850606069</SimpleData>
+                        <SimpleData name="perimetre">78.2372088935486</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.060154872319732,12.605362691155394 -8.060262415313519,12.605497341189114 -8.060238127512875,12.60554336937895 -8.060215171879626,12.605577149642428 -8.060168061349485,12.605646471695191 -8.060089093245942,12.605552474936664 -8.060048577907821,12.605504274874221 -8.060100661329889,12.605434880771732 -8.060154872319732,12.605362691155394</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292037">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">20563</SimpleData>
+                        <SimpleData name="numeroparc">0492</SimpleData>
+                        <SimpleData name="ninacad">00104360492</SimpleData>
+                        <SimpleData name="section">36</SimpleData>
+                        <SimpleData name="surface">288.240852561474</SimpleData>
+                        <SimpleData name="perimetre">68.6493486763365</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.061167343491604,12.60784499050244 -8.06130515641292,12.607732315486976 -8.061316150212466,12.607747047158558 -8.061343039531122,12.607782992661974 -8.061387610350966,12.607842689992522 -8.061243416123471,12.607950686063418 -8.061242820690946,12.607949870202559 -8.061167343491604,12.60784499050244</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292038">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">265</SimpleData>
+                        <SimpleData name="numeroparc">0043</SimpleData>
+                        <SimpleData name="ninacad">00104370043</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">186.91185188666</SimpleData>
+                        <SimpleData name="perimetre">61.203443405163</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.064169882218362,12.607343434589348 -8.06429786431856,12.607199528982719 -8.064373003535929,12.607232975779276 -8.064237210483688,12.607385624704136 -8.064169882218362,12.607343434589348</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292039">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24201</SimpleData>
+                        <SimpleData name="numeroparc">0055</SimpleData>
+                        <SimpleData name="ninacad">00104370055</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">217.605595657602</SimpleData>
+                        <SimpleData name="perimetre">63.6017405805147</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.063448367155527,12.606463527667858 -8.063338631460466,12.606627750640037 -8.063264317627794,12.606582597222916 -8.063367585094927,12.606412293551193 -8.063448367155527,12.606463527667858</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292040">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24227</SimpleData>
+                        <SimpleData name="numeroparc">0083</SimpleData>
+                        <SimpleData name="ninacad">00104370083</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">218.771052868105</SimpleData>
+                        <SimpleData name="perimetre">62.8532136577184</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.064407076045784,12.606215611382797 -8.0643260200103,12.606379347483154 -8.064255748179152,12.606336559375693 -8.064306213770081,12.606154632428552 -8.064407076045784,12.606215611382797</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292041">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24273</SimpleData>
+                        <SimpleData name="numeroparc">0135</SimpleData>
+                        <SimpleData name="ninacad">00104370135</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">240.306155446451</SimpleData>
+                        <SimpleData name="perimetre">64.2328976250692</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.064190752634497,12.604535684913262 -8.064092705276117,12.604523677601742 -8.064101329229882,12.604341649361599 -8.064211985583954,12.604354559786888 -8.064200092600334,12.604536847847802 -8.064190752634497,12.604535684913262</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292042">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24275</SimpleData>
+                        <SimpleData name="numeroparc">0139</SimpleData>
+                        <SimpleData name="ninacad">00104370139</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">217.296335154457</SimpleData>
+                        <SimpleData name="perimetre">62.8246733657846</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06432303405579,12.60428478345935 -8.064336194831748,12.604095582774972 -8.064430529377987,12.604103236885663 -8.064430528229806,12.604103553347796 -8.064417267424686,12.604294968954216 -8.06432303405579,12.60428478345935</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292043">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24298</SimpleData>
+                        <SimpleData name="numeroparc">0171</SimpleData>
+                        <SimpleData name="ninacad">00104370171</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">174.066189422738</SimpleData>
+                        <SimpleData name="perimetre">58.24863116607</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06428872297695,12.603642915230923 -8.064306656528013,12.60345766446689 -8.06438699846743,12.603465088762272 -8.064362108249723,12.603652033145908 -8.06428872297695,12.603642915230923</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292044">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24345</SimpleData>
+                        <SimpleData name="numeroparc">0235</SimpleData>
+                        <SimpleData name="ninacad">00104370235</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">334.016201255501</SimpleData>
+                        <SimpleData name="perimetre">76.0706429798689</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062568204333276,12.603756285413102 -8.062579573052277,12.603629874506225 -8.062661715210202,12.603635904141033 -8.062661949467001,12.60363477472667 -8.062726834596642,12.603639613595014 -8.062761394036587,12.603642176073503 -8.062802441859647,12.603645258598974 -8.06278947814528,12.603767278615587 -8.062764902375148,12.603766062216692 -8.062714830405758,12.603763580975489 -8.062637513438496,12.603759738326652 -8.062568204333276,12.603756285413102</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292045">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24356</SimpleData>
+                        <SimpleData name="numeroparc">0255</SimpleData>
+                        <SimpleData name="ninacad">00104370255</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">327.02457781136</SimpleData>
+                        <SimpleData name="perimetre">72.3858838402953</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062797010536384,12.604012475770602 -8.062960649163518,12.603999622237271 -8.062975959085357,12.604169301696427 -8.062814599307004,12.604175698272837 -8.062797010536384,12.604012475770602</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292046">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24471</SimpleData>
+                        <SimpleData name="numeroparc">0374</SimpleData>
+                        <SimpleData name="ninacad">00104370374</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">301.17514700169</SimpleData>
+                        <SimpleData name="perimetre">70.2192892857686</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.061608363362504,12.60636638350487 -8.061484886300285,12.606435798474998 -8.061443126315094,12.606375342480261 -8.061431724707766,12.606358846216882 -8.061401549317514,12.606315203588515 -8.061382541929795,12.606289005799974 -8.061381213803184,12.606287147550047 -8.061380755805802,12.606286513009909 -8.061507111653224,12.606222894997146 -8.061507248920863,12.606223121526186 -8.061551349197629,12.606285574942303 -8.061565087323391,12.606305108435388 -8.061606714832607,12.606364026827478 -8.061608363362504,12.60636638350487</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292047">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">42771</SimpleData>
+                        <SimpleData name="numeroparc">0388</SimpleData>
+                        <SimpleData name="ninacad">00104370388</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">945.948124496266</SimpleData>
+                        <SimpleData name="perimetre">123.72470403438</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.05964854610211,12.604425934891594 -8.059812641951124,12.604186766692022 -8.059918302632033,12.60425676077354 -8.060002840754837,12.60431266562608 -8.060066944431055,12.604355116619193 -8.059897767925843,12.6045485604136 -8.059830591979827,12.60451550212731 -8.059746461215724,12.604474110867388 -8.05964854610211,12.604425934891594</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292048">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24519</SimpleData>
+                        <SimpleData name="numeroparc">0422</SimpleData>
+                        <SimpleData name="ninacad">00104370422</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">827.506575613748</SimpleData>
+                        <SimpleData name="perimetre">115.911079096782</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.060132867831113,12.60416352493891 -8.060209702900737,12.604059632622965 -8.060466729674516,12.604162528542535 -8.06038130921194,12.604298218176842 -8.06032005675493,12.604395429118727 -8.060260914356368,12.604355708188837 -8.060214031944799,12.604324258461048 -8.060200302483208,12.604315032683198 -8.060131150016163,12.604268585542298 -8.060080364663508,12.604234499924956 -8.060132867831113,12.60416352493891</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292049">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24520</SimpleData>
+                        <SimpleData name="numeroparc">0424</SimpleData>
+                        <SimpleData name="ninacad">00104370424</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">1055.91157394758</SimpleData>
+                        <SimpleData name="perimetre">130.997036670645</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.059950240232512,12.603955778505659 -8.059952334149218,12.60394959218172 -8.060051091230331,12.603804636447217 -8.060133234729044,12.603683990123356 -8.060222315620429,12.603730736052524 -8.060292289549817,12.60376745929621 -8.060388398969398,12.603817893196057 -8.060318172696725,12.603912898257047 -8.060209702900737,12.604059632622965 -8.059950240232512,12.603955778505659</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292050">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24572</SimpleData>
+                        <SimpleData name="numeroparc">0483</SimpleData>
+                        <SimpleData name="ninacad">00104370483</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">281.031386776827</SimpleData>
+                        <SimpleData name="perimetre">67.1990207554435</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06121654610503,12.603737662714337 -8.061359262651848,12.603794675644036 -8.061305330853541,12.603942095002822 -8.061162765226323,12.603868897600707 -8.06121654610503,12.603737662714337</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292051">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24583</SimpleData>
+                        <SimpleData name="numeroparc">0494</SimpleData>
+                        <SimpleData name="ninacad">00104370494</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">201.267401694087</SimpleData>
+                        <SimpleData name="perimetre">56.886284417171</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062448547092222,12.603750350222402 -8.062438958055619,12.603619542142395 -8.062450400540877,12.60362037961725 -8.062579573052266,12.603629874506316 -8.06256820433327,12.603756285413102 -8.062448547092222,12.603750350222402</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292052">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">43471</SimpleData>
+                        <SimpleData name="numeroparc">0497</SimpleData>
+                        <SimpleData name="ninacad">00104370497</SimpleData>
+                        <SimpleData name="section">37</SimpleData>
+                        <SimpleData name="surface">535.167104034219</SimpleData>
+                        <SimpleData name="perimetre">93.1580749611177</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.061914080507993,12.602715123396798 -8.06193576233161,12.602626091699559 -8.061977031078246,12.602631661634154 -8.062002197222657,12.602635050221965 -8.062118366524665,12.602650648158768 -8.062110537173108,12.602765723893583 -8.062102170739445,12.602889251905252 -8.06202419305647,12.602864655652514 -8.06196515819023,12.60284600307077 -8.061888146005458,12.60282172663373 -8.061914080507993,12.602715123396798</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292053">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">14109</SimpleData>
+                        <SimpleData name="numeroparc">0093</SimpleData>
+                        <SimpleData name="ninacad">00104380093</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">4633.5679323636</SimpleData>
+                        <SimpleData name="perimetre">276.171491477398</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.064116021333886,12.599925098946235 -8.063969302085681,12.600641697794924 -8.06344334473577,12.600596816637758 -8.063552205368572,12.599912093882363 -8.064116021333886,12.599925098946235</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292054">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">14192</SimpleData>
+                        <SimpleData name="numeroparc">0095</SimpleData>
+                        <SimpleData name="ninacad">00104380095</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">274.097793308087</SimpleData>
+                        <SimpleData name="perimetre">67.8143581178041</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.064109146265814,12.600196105592715 -8.064139346490126,12.60001718183485 -8.06426194828889,12.600023036042158 -8.064233009409506,12.600209559423066 -8.064109146265814,12.600196105592715</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292055">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">363</SimpleData>
+                        <SimpleData name="numeroparc">0114</SimpleData>
+                        <SimpleData name="ninacad">00104380114</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">193.840061320108</SimpleData>
+                        <SimpleData name="perimetre">59.3980095091589</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.0639760074468,12.60135612107341 -8.063982420330996,12.601174491938064 -8.064073766156703,12.601180960195174 -8.064062665399677,12.601360628920123 -8.0639760074468,12.60135612107341</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292056">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">15752</SimpleData>
+                        <SimpleData name="numeroparc">0120</SimpleData>
+                        <SimpleData name="ninacad">00104380120</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">246.861921706757</SimpleData>
+                        <SimpleData name="perimetre">64.741131137742</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.063523112719759,12.601332563355427 -8.063523053027303,12.60151380782374 -8.0634076776626,12.601507842918238 -8.06341187941677,12.601326793802816 -8.063523112719759,12.601332563355427</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292057">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">23272</SimpleData>
+                        <SimpleData name="numeroparc">0223</SimpleData>
+                        <SimpleData name="ninacad">00104380223</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">203.439334795112</SimpleData>
+                        <SimpleData name="perimetre">57.0767364166485</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.063041893877717,12.600502414344314 -8.06291499018619,12.600502331296363 -8.062909848964239,12.600371748403484 -8.063045623897338,12.600375253244163 -8.063041893877717,12.600502414344314</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292058">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">337</SimpleData>
+                        <SimpleData name="numeroparc">0242</SimpleData>
+                        <SimpleData name="ninacad">00104380242</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">376.005517633108</SimpleData>
+                        <SimpleData name="perimetre">77.7922427406633</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062668565445561,12.599965238358164 -8.06267118342241,12.600131482655714 -8.062478586218392,12.600121313460143 -8.06247917281752,12.599959917814788 -8.062668565445561,12.599965238358164</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292059">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24598</SimpleData>
+                        <SimpleData name="numeroparc">0271</SimpleData>
+                        <SimpleData name="ninacad">00104380271</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">391.879354402401</SimpleData>
+                        <SimpleData name="perimetre">81.6971348862865</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062679186084607,12.599360554065639 -8.06267917864916,12.599223252954593 -8.062918797387931,12.599238921458925 -8.06290544078812,12.599380515852763 -8.062679186084607,12.599360554065639</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292060">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">303</SimpleData>
+                        <SimpleData name="numeroparc">0277</SimpleData>
+                        <SimpleData name="ninacad">00104380277</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">336.885303386138</SimpleData>
+                        <SimpleData name="perimetre">73.8462240872787</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062895928296738,12.599160809810222 -8.062887923072116,12.598982340064147 -8.063047163302413,12.59898832318607 -8.063045525112912,12.599173224097425 -8.062895928296738,12.599160809810222</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292061">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24616</SimpleData>
+                        <SimpleData name="numeroparc">0301</SimpleData>
+                        <SimpleData name="ninacad">00104380301</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">552.297385114245</SimpleData>
+                        <SimpleData name="perimetre">94.2717227329222</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062235234837253,12.598333918666857 -8.06224405043719,12.598555249802464 -8.062047954454224,12.598558224053615 -8.062010990304758,12.598343711238464 -8.062235234837253,12.598333918666857</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292062">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24619</SimpleData>
+                        <SimpleData name="numeroparc">0305</SimpleData>
+                        <SimpleData name="ninacad">00104380305</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">227.605485376786</SimpleData>
+                        <SimpleData name="perimetre">60.5067852420899</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062455343932841,12.598208149179218 -8.062461572919885,12.598356005904773 -8.06233149070516,12.598356906115146 -8.062326861953865,12.59821203882576 -8.062455343932841,12.598208149179218</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292063">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24765</SimpleData>
+                        <SimpleData name="numeroparc">0325</SimpleData>
+                        <SimpleData name="ninacad">00104380325</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">281.765174032422</SimpleData>
+                        <SimpleData name="perimetre">71.7685820444802</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.063644451914445,12.597806108279494 -8.06364855433501,12.59770304507049 -8.06387990779097,12.597712851664904 -8.06385664342093,12.597819735822984 -8.063644451914445,12.597806108279494</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292064">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">24938</SimpleData>
+                        <SimpleData name="numeroparc">0339</SimpleData>
+                        <SimpleData name="ninacad">00104380339</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">244.506109715454</SimpleData>
+                        <SimpleData name="perimetre">62.7428789347373</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062729081530358,12.597726362194201 -8.062880756298906,12.597724045519355 -8.062887119175008,12.597784422434493 -8.06289423631775,12.597851674173663 -8.062894241038288,12.597851718884993 -8.062737565554277,12.5978617038135 -8.0627331284844,12.597790709425698 -8.062729081530358,12.597726362194201</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292065">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">27743</SimpleData>
+                        <SimpleData name="numeroparc">0401</SimpleData>
+                        <SimpleData name="ninacad">00104380401</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">534.636208365788</SimpleData>
+                        <SimpleData name="perimetre">93.1397075369759</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.060497476558226,12.599095791780464 -8.060693185457058,12.599085448200006 -8.060698390370545,12.59921087742024 -8.060702581952023,12.599311211851024 -8.06051929238229,12.599336518168398 -8.060509246878347,12.599225810215891 -8.060497476558226,12.599095791780464</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292066">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">27790</SimpleData>
+                        <SimpleData name="numeroparc">0466</SimpleData>
+                        <SimpleData name="ninacad">00104380466</SimpleData>
+                        <SimpleData name="section">38</SimpleData>
+                        <SimpleData name="surface">421.260325323266</SimpleData>
+                        <SimpleData name="perimetre">84.9490716951237</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.061437584617584,12.601359564413318 -8.061513410974547,12.601355400060116 -8.061528354367073,12.601499037645373 -8.06145174843057,12.601502385493703 -8.061356451467052,12.601506526680174 -8.061280766445018,12.601509787293445 -8.06127779145183,12.601467189573118 -8.061272978334705,12.601398454353257 -8.061270877527305,12.601368608758913 -8.06134371115989,12.601364659993775 -8.061437584617584,12.601359564413318</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292067">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">471</SimpleData>
+                        <SimpleData name="numeroparc">0005</SimpleData>
+                        <SimpleData name="ninacad">00104390005</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">102.019372291863</SimpleData>
+                        <SimpleData name="perimetre">47.8515385250131</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.065167791426708,12.5968869336079 -8.065266590490253,12.596752106562535 -8.065308936913432,12.596771344177073 -8.0652202416347,12.596910324613356 -8.065167791426708,12.5968869336079</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292068">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6820</SimpleData>
+                        <SimpleData name="numeroparc">0035</SimpleData>
+                        <SimpleData name="ninacad">00104390035</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">246.802810026333</SimpleData>
+                        <SimpleData name="perimetre">66.44178945755</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.066159064146774,12.595507905381673 -8.066221228515266,12.595424575249643 -8.066383139953723,12.595544086626585 -8.066323242278317,12.59562430525384 -8.066159064146774,12.595507905381673</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292069">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6826</SimpleData>
+                        <SimpleData name="numeroparc">0042</SimpleData>
+                        <SimpleData name="ninacad">00104390042</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">174.723650014028</SimpleData>
+                        <SimpleData name="perimetre">55.9484686840066</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06617693527352,12.595326542053948 -8.066274274257793,12.59518994228028 -8.06634752116634,12.595236673321908 -8.06624806162667,12.595374169910636 -8.06617693527352,12.595326542053948</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292070">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6834</SimpleData>
+                        <SimpleData name="numeroparc">0049</SimpleData>
+                        <SimpleData name="ninacad">00104390049</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">344.985144972801</SimpleData>
+                        <SimpleData name="perimetre">77.0162649468059</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.066705149053512,12.595050256706248 -8.066765625458295,12.594962670842635 -8.066881908324667,12.59503514046376 -8.06681675258897,12.595118415126917 -8.066743920476288,12.59521151866079 -8.06664194255042,12.59514181146316 -8.066705149053512,12.595050256706248</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292071">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6890</SimpleData>
+                        <SimpleData name="numeroparc">0112</SimpleData>
+                        <SimpleData name="ninacad">00104390112</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">270.49773549661</SimpleData>
+                        <SimpleData name="perimetre">70.6524059047738</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.065489452476042,12.59532540695612 -8.065372115688827,12.595505880160376 -8.065284638127643,12.595448610529449 -8.065408617421365,12.595264182138823 -8.065489452476042,12.59532540695612</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292072">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6896</SimpleData>
+                        <SimpleData name="numeroparc">0117</SimpleData>
+                        <SimpleData name="ninacad">00104390117</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">285.248523259535</SimpleData>
+                        <SimpleData name="perimetre">81.1597774084523</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.065162739737092,12.595592221954746 -8.065002096972064,12.595783303468094 -8.064911835400746,12.595782987932315 -8.065079634068594,12.595535193585233 -8.065162739737092,12.595592221954746</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292073">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6897</SimpleData>
+                        <SimpleData name="numeroparc">0119</SimpleData>
+                        <SimpleData name="ninacad">00104390119</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">246.243006948382</SimpleData>
+                        <SimpleData name="perimetre">63.6625771499246</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06488170628977,12.595612397640592 -8.064977519578989,12.59546516883222 -8.065079634068594,12.595535193585233 -8.064990227919866,12.595667209232587 -8.06488170628977,12.595612397640592</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292074">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6973</SimpleData>
+                        <SimpleData name="numeroparc">0198</SimpleData>
+                        <SimpleData name="ninacad">00104390198</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">306.17792363411</SimpleData>
+                        <SimpleData name="perimetre">70.9177015698213</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.06229154968298,12.596238477421132 -8.062446594639617,12.596233143716132 -8.06244593690598,12.59641416005708 -8.062323146752872,12.59642263586857 -8.06229154968298,12.596238477421132</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="parcelle.2292075">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#parcelle_1">
+                        <SimpleData name="uoid">6974</SimpleData>
+                        <SimpleData name="numeroparc">0199</SimpleData>
+                        <SimpleData name="ninacad">00104390199</SimpleData>
+                        <SimpleData name="section">39</SimpleData>
+                        <SimpleData name="surface">410.528577162724</SimpleData>
+                        <SimpleData name="perimetre">81.1273648788143</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-8.062446594639617,12.596233143716132 -8.062634692740883,12.596226614686444 -8.062642346204237,12.596400517070673 -8.06244593690598,12.59641416005708 -8.062446594639617,12.596233143716132</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
